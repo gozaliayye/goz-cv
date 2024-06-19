@@ -80,3 +80,9 @@ header > p {
   display: flex;
   flex-direction: column;
 }
+
+footer {
+  margin-top: 1.5cm;
+  text-align: end;
+}
+
