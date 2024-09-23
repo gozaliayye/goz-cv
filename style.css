@@ -94,4 +94,6 @@ footer {
   float: right;
   text-align: right;
 }
-
+ h2 {
+   color: blue;
+ }
