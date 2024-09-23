@@ -90,6 +90,9 @@ footer {
   text-align: end;
 }
 
-span {
-  text-align: end;
+#date {
+  float: right;
+  text-align: right;
+  margin-right: 10px;
 }
+
